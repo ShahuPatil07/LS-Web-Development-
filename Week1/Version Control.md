@@ -21,13 +21,15 @@ Windows-   https://git-scm.com/download/win
 
 (for windows users)
 
-![photo1](/Picture10.png)
+![photo1](https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture1.jpg
+)
 
 **Run this setup application, without any changes in the setup process.**
 
 (for mac users)
 
-![photo2](https://drive.google.com/file/d/1vXDb8ljMTAHUQyjpcbdzC9ymy7TKJ4xK/view?usp=drive_link)
+![photo2](https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture2actual.jpg
+)
 
 Git installation tutorial for mac: https://www.youtube.com/watch?v=O3vtpZgI0fQ
 
@@ -36,13 +38,13 @@ Git installation tutorial for mac: https://www.youtube.com/watch?v=O3vtpZgI0fQ
 Once setup is complete and git is installed, you need to open Git Bash (the command line interface for git). 
 Git bash can be simply opened by typing “git bash” in your search bar:
 
-![photo3](https://drive.google.com/file/d/172tb1q1dUTpOTaofwZdwTiaxRDsSODZX/view?usp=sharing)
+![photo3](https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture-3.png)
 
 
 
 Git bash window looks like this:
 
-![photo4](https://drive.google.com/file/d/1p4mwdDnNHYgxtSD68RemP2EI_M8kMgEB/view?usp=sharing)
+![photo4](https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture4%20(2).jpg)
 
 
 
@@ -54,19 +56,21 @@ If you are a first time git user, you might need to configure your git, so follo
 
 Setup guide from Git: [Git setup.](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
-![photo5](https://drive.google.com/file/d/1Lob7SWa-OEvBNRhNfE2_mfpqlHLD8F34/view?usp=sharing)
+![photo5](https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture5.jpg)
 
 
 
 
-![photo6](https://drive.google.com/file/d/1XwM8wPMhn6qJBtM0Xx6AozsDfQqrnKhh/view?usp=sharing)
+![photo6](https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture6.jpg
+)
 
 
 
 
 A List of some common git commands:
 
-![photo7](https://drive.google.com/file/d/1z1AV6xFswJjdpDL99l6OWcaUbex8jQfJ/view?usp=sharing)
+![photo7]( https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture7.jpg
+)
 
 
 **Git Cheat sheet**: [Github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
@@ -82,7 +86,8 @@ Signup and login into github with your preferred email address, same as you woul
 
 After signing in successfully, you might see something like this:
 
-![photo8](https://drive.google.com/file/d/14KbejHa5jrwrFzmiN60MN3Yc0Hc5pN7E/view?usp=sharing)
+![photo8](https://github.com/shresth-keshari/imgsforLSWEBDEV/blob/fa4f769a965dd48770f18852a6a6891f914f9d8a/Picture8.jpg
+)
 
 
 
