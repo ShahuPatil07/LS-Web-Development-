@@ -81,3 +81,5 @@ By the end of the weekend, ensure your project is complete and well-documented. 
 - [Navbar Tutorial](https://www.w3schools.com/howto/howto_js_topnav.asp)
 ---
 Good luck, and have fun creating your website about your favorite game! Remember, this is your chance to show off your skills and share your passion for the game.
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
