@@ -11,7 +11,7 @@ So, let's get on with it!
 
 React.js is a JavaScript library for building user interfaces. It allows you to create reusable UI components and manage the state of your application effectively.
 
-![Unleashing the Power of React.js: Real-World Benefits and Examples | by  Kalana De Silva | Medium](data:https://miro.medium.com/v2/resize:fit:1400/1*x0d41ns8PTQZz4a3VbMrBg.png)
+![](https://miro.medium.com/v2/resize:fit:1400/1*x0d41ns8PTQZz4a3VbMrBg.png)
 
 React makes it easy to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 
@@ -25,7 +25,7 @@ React makes it easy to create interactive UIs. Design simple views for each stat
 
 - **Videos:**  
 
-- [**Complete Tutorial**](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&si=2M7sZlVizYWPxNKh)                                 ![6 Best Resources for Learning React (2023) | JavaScript in Plain English](data:https://miro.medium.com/v2/resize:fit:1400/0*LAmBdBrbUQakMo2R)
+- [**Complete Tutorial**](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&si=2M7sZlVizYWPxNKh)                                 ![](https://miro.medium.com/v2/resize:fit:1400/0*LAmBdBrbUQakMo2R)
 
 &nbsp;
 
