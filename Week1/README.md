@@ -18,6 +18,8 @@ Hello everyone. Hope you all are excited to start learning web development from 
 
    It is important for you to do this in this week itself as we will be working on it.
 
- **At the end, please do [Assignment](./Assignment.md)**.
+ **At the end, please do [Assignment](./Assignment.md)**. 
+ 
+ **You can go to [Practice](./Practice) folder for more in depth practice. Just download this repo on your local computer and access those folders in visual studio code.**
 
  <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
