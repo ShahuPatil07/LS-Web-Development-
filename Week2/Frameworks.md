@@ -4,7 +4,7 @@ Now, you all know what HTML,CSS and basics of JS is and yesss!! You have already
 
 Why?? Well because we told you to do so ! **Just kidding**.. Well let me show you one example of a website layout formed using conventional CSS and external framework.. Then don’t ask me why..hehe..
 
-*In the images section: Go to bootstrap example and conventional example..For a similar layout you need to write so much html + css . But the same thing can be done by an external framework like bootstrap so easily.You need not remember all the classes , they are already present on their official website !! The beautiful thing is that it is responsive….. External frameworks provide classes which are already responsive so you don’t need to add by yourself those “media queries”.*
+*In the [images](./Images) section: Go to bootstrap example and conventional example..For a similar layout you need to write so much html + css . But the same thing can be done by an external framework like bootstrap so easily.You need not remember all the classes , they are already present on their official website !! The beautiful thing is that it is responsive….. External frameworks provide classes which are already responsive so you don’t need to add by yourself those “media queries”.*
 
 So let us start with **Bootstrap**. If you have time you can learn Tailwind too (completely-optional). We will provide resources for both.
 
