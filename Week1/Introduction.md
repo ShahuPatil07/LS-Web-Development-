@@ -49,9 +49,9 @@ The word Web Development is made up of two words, that is:
 
 - **Websites to follow for basic HTML:**
 
-    - **[W3Schools](https://www.w3schools.com/whatis/whatis_html.asp)**
+    - **[W3Schools](https://www.w3schools.com/whatis/whatis_html.asp) (Follow till layout section)**
 
-    - **[GeeksForGeeks](https://www.geeksforgeeks.org/html-basics/?ref=lbp)**
+    - **[GeeksForGeeks](https://www.geeksforgeeks.org/html-basics/?ref=lbp)  (Follow till layout section)**
 
     - **[Basic Html](https://learn.shayhowe.com/html-css/building-your-first-web-page/)** **(Lecture 1,2,8,9,10,11)**
 
@@ -82,12 +82,12 @@ CSS (Cascading Styling Sheet) is the language that defines the presentation of a
 
 - **Websites to follow for basic CSS(any one):**
 
-    - **[W3Schools](https://www.w3schools.com/css/default.asp)** **(CSS is vast but try to be clear about all the concepts present in tutorial section,grid,flexbox,animation transition and also responsiveness)**
+    - **[W3Schools](https://www.w3schools.com/css/default.asp) (CSS is vast but try to be clear about all the concepts present in tutorial section,grid,flexbox,animation,transition and also responsiveness)**
 
     - **[GeeksForGeeks](https://www.geeksforgeeks.org/css-tutorial/?ref=dhm)** **(Try to be comfortable with all concepts till styling techniques and have a basic idea about responsiveness)**
 
     - **[Basic CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)** **(Lectures 1,3,4,5,6,7)**
-
+      
 **Additional doc for tip:** **[Basic Tips](https://www.hongkiat.com/blog/20-useful-css-tips-for-beginners/)**
 
 - **Videos:**
@@ -103,6 +103,9 @@ CSS (Cascading Styling Sheet) is the language that defines the presentation of a
   *CSS is really a vast topic. We will also cover one or two CSS frameworks later in LearnerSpace. So just be comfortable with the basics , do the 
   assignments and learn more and more.*
 
+  **You can practice CSS-Basic,intermediate,advanced and grid+flexbox through [Practice Folder](./Practice). Just [Download](./README.md) that folder and open in visual studio code. You have to achieve the goal.png image by editing your html and css files. Solution is also available. But first try by your own.**
+
+
 ## **Javascript**
 
 JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive. It adds dynamic functionality and complex features like interactivity and animation to web pages. Together with HTML and CSS, JavaScript forms the foundation of web development. When a web page does more than just display static information, such as showing timely content updates, interactive maps, or animated graphics, JavaScript is likely involved. It allows you to create dynamically updating content, control multimedia, and perform various other tasks.
@@ -115,7 +118,7 @@ JavaScript is a cross-platform, object-oriented scripting language used to make 
 
         - **DOM Model (present in a section in website)**
 
-        - **Events , async ,objects (be clear with getter,setter,event creation,arrow functions,map,filter,spread)**
+        - **Events ,objects (be clear with getter,setter,event creation,arrow functions,map,filter,spread)**
 
     - **[GeeksForGeeks](https://www.geeksforgeeks.org/javascript/?ref=dhm)** **(Try to be comfortable with all concepts till Events and have a basic idea about class creation)**
 
