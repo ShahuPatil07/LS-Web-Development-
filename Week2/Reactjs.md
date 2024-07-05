@@ -16,9 +16,9 @@ React.js is a JavaScript library for building user interfaces. It allows you to 
 React makes it easy to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 
 - **Websites to follow (Just follow one and stay consistent) :**  
-- [**W3school**](https://www.w3schools.com/REACT/)
+- [**W3school**](https://www.w3schools.com/REACT/) (Till React Hooks)
 - **Official Website:** [**React Official Documentation**](https://react.dev/learn) (You can also make tic-tac-toe game !!)
-- [**Geeks for Geeks**](https://www.geeksforgeeks.org/react-tutorial/)
+- [**Geeks for Geeks**](https://www.geeksforgeeks.org/react-tutorial/) (Till React Hooks)
 - **You can go through this website to know in detail what to study for React :** [**Concepts**](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/)
 
 &nbsp;
@@ -29,8 +29,8 @@ React makes it easy to create interactive UIs. Design simple views for each stat
 
 &nbsp;
 
-- [**In Hindi**](https://youtube.com/playlist?list=PLdPwRNmUlk0lw0nkFgbqwuFHyprkCT0qz&si=ED7gb7T8ACEEpqTj)
-- [**React Summary**](https://youtu.be/SqcY0GlETPk?si=zvxBlno-PayPo-CV)
+- [**Tutorial In Hindi**](https://youtube.com/playlist?list=PLdPwRNmUlk0lw0nkFgbqwuFHyprkCT0qz&si=ED7gb7T8ACEEpqTj)
+- [**React Summary video**](https://youtu.be/SqcY0GlETPk?si=zvxBlno-PayPo-CV)
 
 &nbsp;
 
