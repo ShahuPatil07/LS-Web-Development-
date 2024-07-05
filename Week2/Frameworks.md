@@ -39,6 +39,9 @@ There are 100’s of resources already. But in web development, you need practic
 
 In the end, this is just a framework which you can use in your websites to make it more pretty and responsive.
 
+##### You can try to create this purely bootstrap made website: As usual if you followed the previous Week 1's practice folder, it is related to Wizards and Witch. Basically creating a layout for [DateWiz](https://pratyaksh2309.github.io/DateWiz/) which is a tinder website for magical people.. Go to this [Practice](./Practice) folder and download it on your local machine. You have to achieve the goal images. How to [Download](./README.md) ? (Completely Optional) 
+
+
 # #
 ## **Tailwind (Completely Optional)** ##
 
