@@ -7,6 +7,20 @@ Welcome back to Week 2 of our course on Web Development with React.js. This week
 
 So, let's get on with it!
 
+## React vs HTML – Can You Spot a Difference?
+&nbsp;               
+HTML is a markup language while React is a JavaScript library. Both are used in front-end development and you might have heard about them while designing websites or web apps. Let’s see what’s the difference between HTML and React.
+Key takeaways:
+•	HTML is a markup language, while React is a JS library.
+•	React is component-based, while HTML doesn’t support such a structure by default.
+•	HTML can’t manage interactivity or states on its own; React can manage states.
+•	HTML websites need full refresh, while React can update only elements that change.
+•	React enables one-way data binding, while HTML doesn’t have any data binding by default.
+•	HTML typically structures content for static websites. React builds dynamic app UIs.
+
+- **Which is faster React or HTML?**
+- React is often considered faster than traditional HTML due to its use of a virtual DOM. The virtual DOM allows React to efficiently update only the necessary components when there are changes, minimizing the number of actual manipulations on the web page. This optimized approach leads to improved performance and faster rendering times compared to manually manipulating the DOM with HTML.
+
 - **Introduction to React.js**
 
 React.js is a JavaScript library for building user interfaces. It allows you to create reusable UI components and manage the state of your application effectively.
@@ -23,14 +37,16 @@ React makes it easy to create interactive UIs. Design simple views for each stat
 
 &nbsp;
 
-- **Videos:**  
+- **Videos:**  (Till video 31)
+-  The tutorial playlist includes a comprehensive series of videos that cover various aspects of React, including setup, components, state, props, hooks, and more advanced topics like React Router for navigation, handling forms, making POST requests, and error handling. You will learn how to build React applications from scratch, manage state effectively, use hooks, and understand component lifecycles.
 
 - [**Complete Tutorial**](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&si=2M7sZlVizYWPxNKh)                                 ![](https://miro.medium.com/v2/resize:fit:1400/0*LAmBdBrbUQakMo2R)
 
 &nbsp;
 
-- [**Tutorial In Hindi**](https://youtube.com/playlist?list=PLdPwRNmUlk0lw0nkFgbqwuFHyprkCT0qz&si=ED7gb7T8ACEEpqTj)
-- [**React Summary video**](https://youtu.be/SqcY0GlETPk?si=zvxBlno-PayPo-CV)
+- [**Tutorial In Hindi**](https://youtube.com/playlist?list=PLdPwRNmUlk0lw0nkFgbqwuFHyprkCT0qz&si=ED7gb7T8ACEEpqTj) (Uptill video 40)
+  &nbsp;
+- [**React Summary video**](https://youtu.be/SqcY0GlETPk?si=zvxBlno-PayPo-CV) (It provides a recap of all the topics covered and highlights the key takeaways from the course.)
 
 &nbsp;
 
