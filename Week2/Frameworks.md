@@ -23,7 +23,7 @@ You can see the official website’s introduction : [Introduction](https://getbo
 
 - **Websites to follow (any one):**
 
-  - **[Official Website](https://getbootstrap.com/docs/5.3/) (You can read the docs here but let me tell you: there is no need to remember all these customisations,layouts,navbars.. Just what you can do is to go on the section you want to incorporate in your website and read about it and use it. )**
+  - **[Official Website](https://getbootstrap.com/docs/5.3/) (You can read the docs here but let me tell you: there is no need to remember all these customisations,layouts,navbars.. Do checkout on utilities as it involves how to use responsiveness : [Utilities](https://getbootstrap.com/docs/4.0/utilities/borders/) {Do read all the utilities part at least} ..And for everything else, go on the section you want to incorporate in your website and read about it and use it directly in your code. )**
 
   - **[GeeksForGeeks](https://www.geeksforgeeks.org/bootstrap-tooltips/?ref=roadmap) (This is extra. You can see this if you were following this website previously. Most of the time ,just stick to the official websites in my opinion. If you do not understand then just google that term.)**
 
@@ -61,7 +61,7 @@ For example, in other traditional systems, there would be a class message-warnin
 
 - **Videos:**
 
-    - **[In Hindi+Project](https://youtu.be/_9mTJ84uL1Q?feature=shared)**
+    - **[In Hindi+Project](https://youtu.be/_9mTJ84uL1Q?feature=shared) (Whole Video)**
 
     - **[Hindi+Latest](https://youtu.be/jTzA-REA-N4?feature=shared) (Start from 21:00)**
 
