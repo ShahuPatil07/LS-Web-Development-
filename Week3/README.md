@@ -11,7 +11,7 @@ Hello everyone. Hope you all are excited to start week 3 and start your backend 
  
  
 
-### ❗[Week 3 Assignment](./Assignment.md)  is a crucial part of the final project, and Week 4 Assignment will be based upon this.
+### ⚠️ [Week 3 Assignment](./Assignment.md)  is a crucial part of the final project, and Week 4 Assignment will be extended upon this.
 
 Hope you had fun learning frontend with us.
  <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
