@@ -49,7 +49,7 @@ This project aims to teach us how to create a user authentication system using D
         (Optional): 
         - Customize the admin interface to display the new field and add functionalities for the new field in the admin interface.
 
-6. Finalizing the Home Page -> (This part will be extended into week 4):
+6. Finalizing the Home Page -> ( Later, this part will extend into week 4):
     
         - The home page needs to be fairly basic
         - Creating a basic navbar for navigation (e.g., Home, Profile, Logout) 
