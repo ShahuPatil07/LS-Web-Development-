@@ -11,3 +11,5 @@ Hello everyone. Hope you all are excited to start week 3 and start your backend 
  
  Hope you had fun learning frontend with us.
  <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
+
+## ❗[Week 3 Assignment](./Assignment.md)  is a crucial part of the final project, and Week 4 Assignment will be based upon this.
