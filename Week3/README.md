@@ -9,7 +9,9 @@ Hello everyone. Hope you all are excited to start week 3 and start your backend 
  **Please do [Assignment](./Assignment.md). This is not a hard assignment as you will be only learning backend this week. Be ready to integrate your frontend and backend in the final week (next one) and show your new skills to everyone.**
 
  
- Hope you had fun learning frontend with us.
- <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
+ 
 
 ## ❗[Week 3 Assignment](./Assignment.md)  is a crucial part of the final project, and Week 4 Assignment will be based upon this.
+
+Hope you had fun learning frontend with us.
+ <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
