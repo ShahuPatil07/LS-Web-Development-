@@ -72,4 +72,5 @@ Here is the image for the same of how a particular request is processed in Djang
 
 - **[Summary](https://youtu.be/rHux0gMZ3Eg?si=_ggeYuGtMjN4Kw97) (English) (Skip 32:10 to 48:37)**
 
-&nbsp;      Created with ❤️ by [WnCC](https://itc.gymkhana.iitb.ac.in/wncc/)
+&nbsp;  
+ <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
