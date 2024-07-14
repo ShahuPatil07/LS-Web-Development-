@@ -61,9 +61,9 @@ This project aims to teach us how to create a user authentication system using D
 1. [Django Official Documentation.](https://docs.djangoproject.com/en/stable/)
 2. Sample images: ![alt text](https://github.com/user-attachments/assets/995088cb-18ed-437f-ac17-e0cac958c7ac)
 
-### Reference Videos: 
-[User Registration and Login Authentication-Denis Ivy](https://youtu.be/tUqUdu0Sjyc)
+### 🪧: Reference Videos: 
+1. [User Registration and Login Authentication-Denis Ivy](https://youtu.be/tUqUdu0Sjyc)
 
-[geeks for geeks- Django Login](https://youtu.be/1UvTNMH7zDo)
+2. [geeks for geeks- Django Login](https://youtu.be/1UvTNMH7zDo)
 
-[Login With User Authentication - Django Wednesdays](https://youtu.be/CTrVDi3tt8o)
+3. [Login With User Authentication - Django Wednesdays](https://youtu.be/CTrVDi3tt8o)
